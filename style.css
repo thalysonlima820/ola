@@ -255,10 +255,7 @@ text-transform: uppercase;
     0 0 50px #ff2d75,
     0 0 100px #ff2d75; 
 }
-.te{
-    margin-right: 0;
-    
-}
+
 #te{
     padding-right: 0;
 }
@@ -292,10 +289,7 @@ text-transform: uppercase;
         border-radius: 100%;
       
     }
-    nav{
-        margin: 0;
-        padding-right: 0;
-        margin-right: 0;
-    }
+   
+
  
 }
