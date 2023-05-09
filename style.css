@@ -261,13 +261,14 @@ text-transform: uppercase;
 @media (max-width: 767px){
     .logo{
         font-size: 1em;
-        max-width: 75px;
+        max-width: 80px;
         margin-right: 0;
     }
     .te{
         font-size: 10px;
         margin: 0 0px;
         padding: 10px 8px;
+        left: -50px;
     }
     .fun span{
        
