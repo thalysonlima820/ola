@@ -75,12 +75,15 @@ section .module h2{
 }
 
 .parallax-1{
+    background-image: url(WhatsApp\ Image\ 2023-05-08\ at\ 4.35.52\ PM.jpeg);
+}
+.parallax-4{
     background-image: url(https://static.vecteezy.com/system/resources/previews/000/523/378/original/web-development-application-design-coding-and-programming-on-laptop-and-smartphone-concept-with-programming-language-and-program-code-and-layout-on-screen-vector.jpg);
-              
+          
 }
 .parallax-2{
     background-image: url(https://www.many.co.uk/wp-content/uploads/2020/02/Header-2-1880x940.png);
-                
+           
 }
 .parallax-3{
     background-image: url(https://www.anahuac.mx/mexico/sites/default/files/noticias/Alumna-analiza-la-comunicacion-digital-de-100-destacadas-empresas.jpg);
@@ -286,5 +289,7 @@ text-transform: uppercase;
     }
     nav{
         margin: 0;
+        padding-right: 0;
+        margin-right: 0;
     }
 }
