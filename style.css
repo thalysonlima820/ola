@@ -75,13 +75,16 @@ section .module h2{
 }
 
 .parallax-1{
-    background-image: url(WhatsApp\ Image\ 2023-05-08\ at\ 4.35.52\ PM.jpeg);
+    background-image: url(https://static.vecteezy.com/system/resources/previews/000/523/378/original/web-development-application-design-coding-and-programming-on-laptop-and-smartphone-concept-with-programming-language-and-program-code-and-layout-on-screen-vector.jpg);
+              
 }
 .parallax-2{
-    background-image: url("https://th.bing.com/th/id/OIP.zy5hXGEr4qDZDnhaQ6x0JAHaEK?pid=ImgDet&rs=1");
+    background-image: url(https://www.many.co.uk/wp-content/uploads/2020/02/Header-2-1880x940.png);
+                
 }
 .parallax-3{
-    background-image: url("https://th.bing.com/th/id/R.5f212e5091c36a740b1586fa2cee14a1?rik=NkgxMY73VxqwgQ&pid=ImgRaw&r=0");
+    background-image: url(https://www.anahuac.mx/mexico/sites/default/files/noticias/Alumna-analiza-la-comunicacion-digital-de-100-destacadas-empresas.jpg);
+          
 }
 .module h1{
     color: white;
@@ -249,6 +252,10 @@ text-transform: uppercase;
 }
 .te{
     margin-right: 0;
+    
+}
+#te{
+    padding-right: 0;
 }
 
 
@@ -265,7 +272,7 @@ text-transform: uppercase;
         margin-right: 0;
     }
     .te{
-        font-size: 10px;
+        font-size: 12px;
         margin: 0 0px;
         padding: 10px 8px;
         left: -50px;
