@@ -323,5 +323,9 @@ text-transform: uppercase;
         0 0 5px #ff2d75,
         0 0 10px #ff2d75;
     }
+    .titu{
+        position: relative;
+        top: 80px;
+    }
 
 }
