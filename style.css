@@ -1,11 +1,11 @@
 body{
     margin: 0;
     padding: 0;
-    color: #242424;
+   
     font-family: sans-serif;
     word-wrap: break-word;
     overflow-wrap: break-word;
-    background-color: #0c192c;
+   
 }
 html{
     scroll-behavior: smooth;
@@ -96,23 +96,22 @@ section .module h2{
 
 .parallax-1{
     background-image: url(WhatsApp\ Image\ 2023-05-08\ at\ 4.35.52\ PM.jpeg);
-    background-repeat: no-repeat;
-    background-size: cover;
+
+    width: 100%;
 }
 .parallax-4{
     background-image: url(https://static.vecteezy.com/system/resources/previews/000/523/378/original/web-development-application-design-coding-and-programming-on-laptop-and-smartphone-concept-with-programming-language-and-program-code-and-layout-on-screen-vector.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;    
+
+    width: 100%;  
 }
 .parallax-2{
     background-image: url(https://www.many.co.uk/wp-content/uploads/2020/02/Header-2-1880x940.png);
-    background-repeat: no-repeat;
-    background-size: cover;    
+    width: 100%;  
 }
 .parallax-3{
     background-image: url(https://www.anahuac.mx/mexico/sites/default/files/noticias/Alumna-analiza-la-comunicacion-digital-de-100-destacadas-empresas.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;  
+
+    width: 100%;
 }
 .module h1{
     color: white;
@@ -325,6 +324,4 @@ text-transform: uppercase;
         0 0 10px #ff2d75;
     }
 
-
- 
 }

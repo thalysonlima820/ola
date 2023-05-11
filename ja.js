@@ -1,3 +1,9 @@
+function setWidth(){
+    var main = document.querySelector('main');
+    if(main && main != null)
+        main.style.width = '100%';
+}
+
 
 const targ = document.querySelectorAll('[data-anime]');
 const animacao = 'animate'
